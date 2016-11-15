@@ -27,15 +27,15 @@ agreement for further details.
 	(port
 		(pt 0 32)
 		(input)
-		(text "x" (rect 0 0 5 19)(font "Intel Clear" (font_size 8)))
-		(text "x" (rect 21 27 26 46)(font "Intel Clear" (font_size 8)))
+		(text "X" (rect 0 0 8 19)(font "Intel Clear" (font_size 8)))
+		(text "X" (rect 21 27 29 46)(font "Intel Clear" (font_size 8)))
 		(line (pt 0 32)(pt 16 32))
 	)
 	(port
 		(pt 0 48)
 		(input)
-		(text "y" (rect 0 0 7 19)(font "Intel Clear" (font_size 8)))
-		(text "y" (rect 21 43 28 62)(font "Intel Clear" (font_size 8)))
+		(text "Y" (rect 0 0 8 19)(font "Intel Clear" (font_size 8)))
+		(text "Y" (rect 21 43 29 62)(font "Intel Clear" (font_size 8)))
 		(line (pt 0 48)(pt 16 48))
 	)
 	(port
