@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/intelFPGA_lite/16.1/Microprocessador/Teste/simulation/qsim
+vhard_block
+Z1 !s110 1479440099
+!i10b 1
+!s100 gO4nIK;d[ZC:7dbc9i>]:0
+IHliBgnjoN>BnAN6B;<XK91
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1479440089
+Z4 8teste.vo
+Z5 Fteste.vo
+L0 223
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1479440099.000000
+Z8 !s107 teste.vo|
+Z9 !s90 -work|work|teste.vo|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vteste
+R1
+!i10b 1
+!s100 ]l2]JPbAKo@7nW1h5=VKW1
+InYza9fBUZ2cgYo_9@HM`92
+R2
+R0
+R3
+R4
+R5
+L0 32
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vteste_vlg_vec_tst
+!s110 1479440100
+!i10b 1
+!s100 ;PBo`MMEiPG7gC>nmnF482
+IKAWe:U1zNd_GR=C9QUePh2
+R2
+R0
+w1479440087
+8Waveform.vwf.vt
+FWaveform.vwf.vt
+L0 30
+R6
+r1
+!s85 0
+31
+!s108 1479440100.000000
+!s107 Waveform.vwf.vt|
+!s90 -work|work|Waveform.vwf.vt|
+!i113 1
+R10
+R11
